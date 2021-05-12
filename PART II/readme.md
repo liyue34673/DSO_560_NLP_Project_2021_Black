@@ -1,6 +1,6 @@
 # Part II
 
-In this part, we firstly did some data cleaning and categorized productes using regex, see [codes](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20II/Part%20II_Data%20Cleaning%20and%20Preprocessing.ipynb) here. Then We create functions for searching matched products and give recommendation outfit combinations.
+In this part, we firstly did some data cleaning and categorized productes using regex, see [codes](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20II/Part%20II_Data%20Cleaning%20and%20Preprocessing.ipynb) here. Then we created functions for searching matched products and gave recommendation outfit combinations.
 
 Input: a string of query
 
