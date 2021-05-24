@@ -17,8 +17,8 @@ Build an NLP classification model to predict which brand a new product should be
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. word embedding 
 
 4. Train/test split and modeling 
-<br> The idea in this part is that we would like to try various models with different inputs and to see which one returns the highest accuarcy. 
-<br> We chose to take top 50 brands and group everything else as other. And the Baseline performance accuracy for this model should be the largest value ~14.7%.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<br> The idea in this part is that we would like to try various models with different inputs and to see which one returns the highest accuarcy. We chose to take top 50 brands and group everything else as other. And the Baseline performance accuracy for this model should be the largest value ~14.7%.
 
 ## A. Count Vectorization: 
 For the following models, we used count vectorization for feature extraction.
