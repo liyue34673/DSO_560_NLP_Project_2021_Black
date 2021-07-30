@@ -18,13 +18,13 @@ Output: printed sentences indicating searching results
   
   * One thing to be attentioned: we weighted name and description, since name matters more and too many noisy words in description
 
-* Using cosing similarity to find the most similar product
+* Using cosine similarity to find the most similar product
 
-  * Similarity should be more than a threshold
+  * Similarity should be bigger than a threshold
 
-  * The most similar product should be a clothing
+  * The most similar product should be a piece of clothing
 
-* Return the most similar product and recommendated outfit combinations
+* Return the most similar product and recommended outfit combinations
 
 ## Our methodology
 
@@ -34,8 +34,8 @@ Output: printed sentences indicating searching results
   * [TF-IDF Weighted Word Embedding](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20II/Part%20II_Final_Function_TF-IDF%20Weighted%20Word%20Embedding.ipynb)
 
 * Poor function
-  * [Doc2vec](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20II/Part%20II_Function_Doc2vec.ipynb): might because the sample size is not enough
+  * [Doc2vec](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20II/Part%20II_Function_Doc2vec.ipynb): might because the sample size is not large enough
 
 ## Final Function
 
-N-gram, TF-IDF and TF-IDF weighted word embedding all have good performances of our example queries. Considering the advance of algorithm, we decide the TF-IDF weighted word embedding as our final function.
+N-gram, TF-IDF and TF-IDF weighted word embedding all have good performances with our example queries. Considering the advancement of algorithm, we decided the TF-IDF weighted word embedding as our final function.
