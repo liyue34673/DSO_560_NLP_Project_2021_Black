@@ -47,7 +47,7 @@ The highest accuracy we find when we employ count vectorization is 0.952.
 - We first combined the data, then preprocess the text input and categorical input separately. We put both inputs into the deep learning LSTM model. This complied model reached a test accuracy of 0.843.
 
 ## Winner Model 
-- Based on the multiple attempts presented previously, we find that DNN model performed the best after word-embedding. 
+- Based on the multiple attempts presented previously, we found that the DNN model performed the best after word-embedding. 
 - We used 'description', 'name', 'details', 'attribute_pair', 'brand_category' as our predictor variables. 
 - This model returns an accuracy of ~0.964. 
 
