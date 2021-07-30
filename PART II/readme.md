@@ -4,7 +4,7 @@ In this part, we firstly did some data cleaning and categorized products using r
 
 Input: a string of query
 
-Output: Printed sentences indicating search results
+Output: printed sentences indicating searching results
 
 ## Overall query logic
 
