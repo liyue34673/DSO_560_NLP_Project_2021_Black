@@ -4,7 +4,7 @@ Build an NLP classification model to predict which brand a new product should be
 
 ## Procedure:
 
-1. Preprocessing: lemmatization; regex cleaning (remove punctutaion, stopwords)
+1. Preprocessing: lemmatization; regex cleaning (remove punctuaion, stopwords)
 2. Feature engineering: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Combine all the files: product, brand and two tags and form a full table: product_tag_brand; drop unnecessary columns
